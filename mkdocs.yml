@@ -3,6 +3,7 @@ site_name: DVC-NLP-Docs-Project
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - Data-prep-stage: dataprep.md
 
 site_author: Pratik Datir
 site_description: >-
