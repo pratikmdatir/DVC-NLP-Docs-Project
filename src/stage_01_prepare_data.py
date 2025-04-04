@@ -29,6 +29,7 @@ def main(config_path, params_path):
 
     split = params["prepare"]["split"]
     seed = params["prepare"]["seed"]
+    tag = params["prepare"]["tag"]
 
     random.seed(seed)
 
